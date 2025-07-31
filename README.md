@@ -243,4 +243,4 @@ Feel free to submit issues and enhancement requests!
 
 ---
 
-**⚠️ Important**: This application is designed for local development and personal use. For production use, consider implementing additional security measures, rate limiting, and proper error handling. 
+**⚠️ Important**: This application is designed for local development and personal use. For production use, consider implementing additional security measures, rate limiting, and proper error handling.
